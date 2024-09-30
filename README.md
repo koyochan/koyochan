@@ -29,8 +29,8 @@
   <img src="https://via.placeholder.com/150" alt="PCN渋谷へのリンク">
 </a>
   <a href="https://qiita.com/koyochan">
-  <img src="[https://via.placeholder.com/150](https://qiita.com/![Pcn渋谷](https://github.com/user-attachments/assets/7e8d184c-33b1-4dda-9ec6-ceddcc7e8c90)
-koyochan)" alt="Qiitaへのリンク">
+  <img src="![Qiita](https://github.com/user-attachments/assets/0bb95042-4b4f-4bb9-9aff-1ff9442c4989)
+" alt="Qiitaへのリンク">
 </a>
 </div>
 
