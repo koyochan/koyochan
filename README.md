@@ -25,7 +25,7 @@
 <!-- ライトモート：theme=light, ダークモート：theme=vue-dark  -->
 ## 🏃‍♀️ Activities
 <div align="left"> 
-  <img alt="Qiita" height="170px" src="https://qiita.com/koyochan" />
+  [![Alt text](https://via.placeholder.com/150)](https://www.google.com)
   <img alt="PCN-Shibuya stats" height="170px" src="https://pcn.livspect.com/" />
 </div>
 
