@@ -25,7 +25,9 @@
 <!-- ライトモート：theme=light, ダークモート：theme=vue-dark  -->
 ## 🏃‍♀️ Activities
 <div align="left"> 
-  [![Alt text](https://via.placeholder.com/150)](https://www.google.com)
+  <a href="https://www.google.com">
+  <img src="https://via.placeholder.com/150" alt="Googleへのリンク">
+</a>
   <img alt="PCN-Shibuya stats" height="170px" src="https://pcn.livspect.com/" />
 </div>
 
