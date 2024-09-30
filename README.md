@@ -26,11 +26,10 @@
 ## 🏃‍♀️ Activities
 <div align="left"> 
   <a href="https://pcn.livspect.com/">
-  <img src="https://via.placeholder.com/150" alt="PCN渋谷へのリンク">
+  <img src="images/PCN-Shibuya.png" alt="PCN渋谷へのリンク">
 </a>
   <a href="https://qiita.com/koyochan">
-  <img src="![Qiita](https://github.com/user-attachments/assets/0bb95042-4b4f-4bb9-9aff-1ff9442c4989)
-" alt="Qiitaへのリンク">
+  <img src="images/Qiita.png" alt="Qiitaへのリンク">
 </a>
 </div>
 
