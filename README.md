@@ -25,11 +25,12 @@
 <!-- ライトモート：theme=light, ダークモート：theme=vue-dark  -->
 ## 🏃‍♀️ Activities
 <div align="left"> 
-  <a href="https://www.google.com">
+  <a href="https://pcn.livspect.com/">
   <img src="https://via.placeholder.com/150" alt="PCN渋谷へのリンク">
 </a>
-  <a href="https://www.google.com">
-  <img src="https://via.placeholder.com/150" alt="Qiitaへのリンク">
+  <a href="https://qiita.com/koyochan">
+  <img src="[https://via.placeholder.com/150](https://qiita.com/![Pcn渋谷](https://github.com/user-attachments/assets/7e8d184c-33b1-4dda-9ec6-ceddcc7e8c90)
+koyochan)" alt="Qiitaへのリンク">
 </a>
 </div>
 
