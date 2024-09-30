@@ -8,8 +8,8 @@
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Hi there
 
 - 🧑‍💻 I'm a 42Tokyo Student
-- 🌱 I’m currently learning C, C++ Python!
-- 📫 How to reach me: [Twitter - @username](https://twitter.com/koyochan)
+- 🌱 I’m currently learning C, C++, Python!
+- 📫 How to reach me: [Twitter - @username](https://twitter.com/@huhkoyo)
 <br>
 
 
