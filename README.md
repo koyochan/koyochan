@@ -26,9 +26,11 @@
 ## 🏃‍♀️ Activities
 <div align="left"> 
   <a href="https://www.google.com">
-  <img src="https://via.placeholder.com/150" alt="Googleへのリンク">
+  <img src="https://via.placeholder.com/150" alt="PCN渋谷へのリンク">
 </a>
-  <img alt="PCN-Shibuya stats" height="170px" src="https://pcn.livspect.com/" />
+  <a href="https://www.google.com">
+  <img src="https://via.placeholder.com/150" alt="Qiitaへのリンク">
+</a>
 </div>
 
 
