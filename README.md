@@ -23,7 +23,7 @@
 
 <!-- 4. GitHub usernameを変更, 2箇所 -->
 <!-- ライトモート：theme=light, ダークモート：theme=vue-dark  -->
-## 🏃‍♀️ Activities
+## 🏃‍♀️ Activities URL
 <div align="left"> 
   <a href="https://pcn.livspect.com/">
   <img src="images/PCN-Shibuya.png" alt="PCN渋谷へのリンク">
