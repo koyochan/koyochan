@@ -11,6 +11,7 @@
 - 🌱 I’m currently learning C, C++, Python!
 - 📫 How to reach me: [Twitter - @username](https://twitter.com/@huhkoyo)
 <br>
+- Co-founder of PCN Shibuya
 
 
 <!-- 3. 好きな技術スタックに変更 -->
