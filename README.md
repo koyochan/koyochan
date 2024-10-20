@@ -10,8 +10,8 @@
 - 🧑‍💻 I'm a 42Tokyo Student
 - 🌱 I’m currently learning C, C++, Python!
 - 📫 How to reach me: [Twitter - @username](https://twitter.com/@huhkoyo)
-<br>
 - Co-founder of PCN Shibuya
+<br>
 
 
 <!-- 3. 好きな技術スタックに変更 -->
