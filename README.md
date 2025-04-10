@@ -12,7 +12,9 @@
 - Co-founder of PCN Shibuya
 <br>
 
-![status](https://github-readme-stats.vercel.app/api?username=koyochan)
+![status](https://github-readme-stats.vercel.app/api?username=zizi4n5&count_private=true)
+![Top Languages Card (Compact layout)](https://github-readme-stats.vercel.app/api/top-langs/?username=zizi4n5&layout=compact)
+
 
 <!-- 3. 好きな技術スタックに変更 -->
 <!-- ライトモート：theme=light, ダークモート：theme=dark -->
