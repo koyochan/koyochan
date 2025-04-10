@@ -12,7 +12,7 @@
 - Co-founder of PCN Shibuya
 <br>
 
-<https://github-readme-stats.vercel.app/api?username=koyochan>
+![status](https://github-readme-stats.vercel.app/api?username=koyochan)
 
 <!-- 3. 好きな技術スタックに変更 -->
 <!-- ライトモート：theme=light, ダークモート：theme=dark -->
