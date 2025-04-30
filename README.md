@@ -2,16 +2,6 @@
 <div align="right">
   <img src="https://komarev.com/ghpvc/?username=username" />
 </div>
-
-
-<!-- 2. プロフィールや連絡先を変更 -->
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Hi there
-
-- 🧑‍💻 I'm a full stack engineer!
-- 📫 How to reach me: [Twitter - @huhkoyo](https://twitter.com/@huhkoyo)
-- Co-founder of PCN Shibuya
-<br>
-
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=koyochan&count_private=true&show_icons=true" />
 </a>
